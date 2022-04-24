@@ -1,4 +1,4 @@
-[
+{
   {
     "href": "keys",
     "name": "Keys",
@@ -13,4 +13,4 @@
       "https://ipfs.io/ipfs/QmNaaRyyGK76iBqGenXVToGpozfAfeCfD64Hukwqr3y3VV/Extra%20LIFE.gif",
     "description": "Keys will unlock something or nothing at all.",
   },
-]
+}
